@@ -2,7 +2,7 @@
 
 Tracks covid-19 cases by fetching data from a covid-19 API. Built with React and Material UI.
 
-### [Live Site](https://covid19statswebsite.netlify.com/)
+### [Live Site](https://coenzeng.github.io/covid-19-tracker/)
 
 ![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
 
