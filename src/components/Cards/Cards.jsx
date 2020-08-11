@@ -10,16 +10,10 @@ const Info = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
   }
   return (
     <div className={styles.container}>
-      <Grid container spacing={4} justify="center">
-      <CardComponent
-          className={styles.infected}
-          cardTitle="COVID-19 Tracker"
-          value='<a href="https://github.com/coenzeng/covid-19-tracker"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>'
-      cardSubtitle='API used: <a href="https://covid19.mathdro.id/api">https://covid19.mathdro.id/api</a>'
-        />
+      <Grid container spacing={3} justify="center">
         <CardComponent
           className={styles.infected}
-          cardTitle="Confirmed"
+          cardTitle="Infected"
           value={confirmed.value}
           lastUpdate={lastUpdate}
           cardSubtitle="Number of active cases from COVID-19."
