@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coenzeng/covid-19-tracker/static/css/main.2bbb2882.chunk.css",
+    "main.js": "/coenzeng/covid-19-tracker/static/js/main.f7c735f4.chunk.js",
+    "main.js.map": "/coenzeng/covid-19-tracker/static/js/main.f7c735f4.chunk.js.map",
+    "runtime-main.js": "/coenzeng/covid-19-tracker/static/js/runtime-main.323a92b2.js",
+    "runtime-main.js.map": "/coenzeng/covid-19-tracker/static/js/runtime-main.323a92b2.js.map",
+    "static/js/2.efa80ff7.chunk.js": "/coenzeng/covid-19-tracker/static/js/2.efa80ff7.chunk.js",
+    "static/js/2.efa80ff7.chunk.js.map": "/coenzeng/covid-19-tracker/static/js/2.efa80ff7.chunk.js.map",
+    "index.html": "/coenzeng/covid-19-tracker/index.html",
+    "precache-manifest.ffe2e5623aaecf8bec8f7a10c4184c15.js": "/coenzeng/covid-19-tracker/precache-manifest.ffe2e5623aaecf8bec8f7a10c4184c15.js",
+    "service-worker.js": "/coenzeng/covid-19-tracker/service-worker.js",
+    "static/css/main.2bbb2882.chunk.css.map": "/coenzeng/covid-19-tracker/static/css/main.2bbb2882.chunk.css.map",
+    "static/js/2.efa80ff7.chunk.js.LICENSE.txt": "/coenzeng/covid-19-tracker/static/js/2.efa80ff7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.323a92b2.js",
+    "static/js/2.efa80ff7.chunk.js",
+    "static/css/main.2bbb2882.chunk.css",
+    "static/js/main.f7c735f4.chunk.js"
+  ]
+}
